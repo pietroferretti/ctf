@@ -1,0 +1,13 @@
+64 bit
+partial relro
+canary
+non abbiamo la libc
+esiste una funzione (non utilizzata) che chiama system e legge la flag
+
+read canary con buffer overflow? -> no, il canary ha il terminatore davanti
+read canary con format string?
+
+plan:
+- read canary con format string %n$llx
+- buffer overflow: canary + indirizzo funzione flag (4008DA)
+- read flag

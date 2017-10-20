@@ -1,0 +1,16 @@
+key 13 chars
+ciphertext 36 chars
+flag + '|' + key -> ciphertext
+flag = 22 chars
+
+semplice vigenere, in più a ogni carattere viene aggiunto quello precedente
+la chiave si ripete sue volte e mezzo
+abbiamo '|' all'indice 22 come crib -> stessa chiave a 9, 35
+inoltre la chiave è all'interno del messaggio
+
+***** ***** ***** ***** **|*************
+ abcde fghij klmab cdefg hijklmabcdefghi
+                           0123456789abc    
+                           9abc012345678
+
+TWCTF{Crypto-is-fun!}

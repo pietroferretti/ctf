@@ -1,0 +1,10 @@
+https://www . onlinedisassembler . com/
+ARM, no-thumb
+
+enc_pw:
+08 00 a0 e1 09 10 a0 e1 0a 20 a0 e1 00 30 a0 e3 00 50 a0 e3 00 40 d0 e5 01 00 55 e3 01 00 00 1a 03 60 03 e2 06 40 84 e0 06 40 84 e2 01 50 04 e2 00 40 c1 e5 01 00 80 e2 01 10 81 e2 01 30 83 e2 02 00 53 e1 f2 ff ff ba 00 00 a0 e3 00 10 a0 e3 00 20 a0 e3 00 30 a0 e3 00 40 a0 e3 00 50 a0 e3 00 60 a0 e3 00 70 a0 e3 00 90 a0 e3 00 a0 a0 e3
+
+test_pw:
+09 00 a0 e1 0a 10 a0 e1 08 30 a0 e1 00 40 a0 e3 00 50 a0 e3 00 c0 a0 e3 00 20 d0 e5 00 60 d1 e5 05 60 86 e2 01 c0 04 e2 00 00 5c e3 00 00 00 0a 03 60 46 e2 06 00 52 e1 05 00 00 1a 01 00 80 e2 01 10 81 e2 01 40 84 e2 03 00 54 e1 f1 ff ff ba 01 50 a0 e3 00 00 a0 e3 00 10 a0 e3 00 20 a0 e3 00 30 a0 e3 00 40 a0 e3 00 60 a0 e3 00 70 a0 e3 00 80 a0 e3 00 90 a0 e3 00 a0 a0 e3 00 c0 a0 e3
+
+get_pw -> XYzaSAAX_PBssisodjsal_sSUVWZYYYb

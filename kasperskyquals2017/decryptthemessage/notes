@@ -1,0 +1,24 @@
+Solution: we have to exploit faults in ascii decoding of bytes with value >= 128, because the stack trace gives us the faulty value
+con len(name)<15 cookie da 64 byte, con len(name)=16 cookie da 80 byte -> 16name + 16IV + 32 = 64 + block di padding?
+-> 16 byte IV, 32 di plaintext base, + name da qualche parte
+scriptino python: https://pastebin.com/q5TbSVyr (manca il break su un for)
+plaintext primi 16 byte -> {"name": "a", "s     ('a' è il mio name)
+
+per il secondo blocco consideriamo:
+* il ciphertext del primo blocco viene usato per xorare il risultato del secondo
+* il ciphertext del primo blocco viene decifrato con la chiave e xorato con l'IV
+per il secondo blocco si potrebbe procedere così:
+    - modifichiamo un carattere alla volta del ciphertext del primo blocco, in modo da indurre un errore di json e rivelare un carattere del secondo blocco
+    - visto che l'intero plaintext del primo blocco viene rovinato, modifichiamo l'IV per fare in modo che non crei problemi (scegliamo un carattere alla volta)
+   
+secondo scriptino: https://pastebin.com/cdZ1ijhN
+{"name": "a", "show_flag": false
+
+possiamo modificare il primo blocco in modo che la fine sia true} invece che false, e droppare il terzo blocco
+dovremo correggere l'iv in modo che il primo blocco non venga decifrato male
+(manca il blocco di padding!!!) -> facciamo "show_flag":true}\x01 senza spazio dopo il due punti
+final exploit: https://pastebin.com/YGQJfHx1
+Flag: KLCTFFDA616A6DAF4E63A9F7B55B43124E548
+
+
+

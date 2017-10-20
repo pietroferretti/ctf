@@ -1,0 +1,10 @@
+137 byte di ciphertext
+gli ultimi 32 corrispondono ai 32 caratteri di hexdigest di md5
+plaintext + key = 105 byte
+Al: xorando con "flag{" si ottiene un inizio di "A qual", ho provato a completare con quality, qualification, quaglia(lo so, mi annoio) ma non ho trovato roba troppo sensata
+xorando il byte prima dell'md5 con "}" forse si ottiene altra roba sensata
+sono abbastanza addormentato, ma testando "A qua" con gli ultimi 32 byte di ciphertext, l'unica posizione della chiave che mi decritta in caratteri di hexdigest è "A q" sugli ultimi 3 byte
+-> ipotesi: chiave lunga 67 caratteri (67 + 67 + 3 = 137)
+-> se la lunghezza è corretta possiamo decrittare altri pezzi della chiave stessa e risolvere
+Era corretto.
+key: A quart jar of oil mixed with zinc oxide makes a very bright paint|

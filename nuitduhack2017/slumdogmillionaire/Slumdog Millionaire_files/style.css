@@ -1,0 +1,219 @@
+h1, h2, h3, h4, h5, h6, li {
+	margin:0;
+}
+body {
+	background-color: #4F0000;
+	background-repeat: no-repeat;
+	margin-left: 0px;
+	margin-top: 1px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	color:#FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+a {
+	color: #ffffff;
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: none;
+}
+.slogan {
+	font-family: Arial;
+   	font-size: 14px;
+	font-weight: bold;
+	line-height: 18px;	
+	color: #FFFFFF;
+}
+.title {
+	padding-left: 0px;
+	font-family: Arial;
+	font-size: 30px;
+	font-weight: bold;
+	color: #FFCC00;
+}
+.copyright {
+	border: 0px;
+	height: 1px;
+	width: 1px;
+}
+.space {
+	line-height: 15px;	
+}
+a.navbar {
+	font-family: Tahoma;
+	font-size: 10px;
+	text-decoration: underline;
+	color: #000000;
+	font-weight: bold;
+}
+a.navbar:hover {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.navbar1 {
+	font-family: Tahoma;
+	font-size: 11px;
+	text-decoration: none;
+	color: #FFCC00;
+	font-weight: normal;
+}
+a.navbar1:hover {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #FFCC00;
+	font-weight: normal;
+	text-decoration: underline;
+}
+a.navbar2 {
+	font-family: Tahoma;
+	font-size: 11px;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+a.navbar2:hover {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: underline;
+	font-weight: bold;
+}
+a.navbar3 {
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a.navbar3:hover {
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+}
+a.navbar4 {
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #000000;
+}
+a.navbar4:hover {
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: underline;
+}
+a.navbar5 {
+	font: Tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a.navbar5:hover {
+	font: Tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.txt-1 {
+	padding-left: 12px;
+	font: Tahoma;
+	font-weight: bold;
+	font-size: 13px;
+	line-height: 18px;	
+	color: #FFFFFF;
+}
+.txt-2 {
+	font-size: 11px;
+	line-height: 17px;	
+	color: #FFFFFF;
+}
+.txt-3 {
+	font-size: 11px;
+	line-height: 18px;	
+	color: #000000;
+}
+.txt-3 a{	
+	color: #000000;
+	text-decoration:underline;
+}
+.txt-3 a:hover{	
+	text-decoration:none;
+}
+.txt-4 {
+	font: Arial;
+	font-size: 13px;	
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.txt-5 {
+	padding-left: 0px;
+	font-size: 21px;
+	line-height: 25px;
+	font-weight: bold;	
+	color: #115203;
+}
+.txt-6 {
+	font: Tahoma;
+	font-size: 21px;
+	line-height: 18px;
+	font-weight: normal;	
+	color: #FFCC00;
+}
+.txt-7 {
+	font: Arial;
+	font-size: 13px;
+	line-height: 15px;
+	font-weight: bold;	
+	color: #FFFFFF;
+}
+.txt-8 {
+	font: Tahoma;
+	font-size: 11px;
+	font-weight: bold;	
+	color: #FFFFFF;
+}
+.head-1 {
+	font-family: Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #000000;
+}
+.head-2 {
+	font: Arial;
+	font-size: 21px;
+	font-weight: bold;	
+	color: #FFCC00;
+}
+.head-3 {
+	font: Tahoma;
+	font-size: 12px;
+	font-weight: bold;	
+	color: #FFCC00;
+}
+.head-4 {
+	font: Arial;
+	font-size: 16px;
+	font-weight: bold;	
+	color: #FF9900;
+}
+.head-5 {
+	font: Tahoma;
+	font-size: 12px;
+	font-weight: bold;	
+	color: #000000;
+}
+.style1 {
+	color: #DE5614;
+	font-weight: bold;
+}
+.style2 {
+	color: #FFCC00;
+	font-weight: bold;
+	text-decoration:underline;
+}

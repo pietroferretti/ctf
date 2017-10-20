@@ -1,0 +1,4549 @@
+[x] Opening connection to bb8.chal.pwning.xxx on port 20811
+[x] Opening connection to bb8.chal.pwning.xxx on port 20811: Trying 45.77.1.132
+[+] Opening connection to bb8.chal.pwning.xxx on port 20811: Done
+0
+Welcome to the
+Q U A N T U M    K E Y   I N T E R C E P T O R
+We've managed to splice the fiber optic cable in between Alice and Bob
+But how can we read their message?? They're using QKD to share keys!!
+We've provided you all the tools we can.. good luck...
+There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+1
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+2
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+3
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+4
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+5
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+6
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+7
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+8
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+9
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+10
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+11
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+12
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+13
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+14
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+15
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+16
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+17
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+18
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+19
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+20
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+21
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+22
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+23
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+24
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+25
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+26
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+27
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+28
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+29
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+30
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+31
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+32
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+33
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+34
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+35
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+36
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+37
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+38
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+39
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+40
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+41
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+42
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+43
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+44
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+45
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+46
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+47
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+48
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+49
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+50
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+51
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+52
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+53
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+54
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+55
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+56
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+57
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+58
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+59
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+60
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+61
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+62
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+63
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+64
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+65
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+66
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+67
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+68
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+69
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+70
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+71
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+72
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+73
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+74
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+75
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+76
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+77
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+78
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+79
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+80
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+81
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+82
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+83
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+84
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+85
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+86
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+87
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+88
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+89
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+90
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+91
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+92
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+93
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+94
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+95
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+96
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+97
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+98
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+99
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+100
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+101
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+102
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+103
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+104
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+105
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+106
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+107
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+108
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+109
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+110
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+111
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+112
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+113
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+114
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+115
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+116
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+117
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+118
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+119
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+120
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+121
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+122
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+123
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+124
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+125
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+126
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+127
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+128
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+129
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+130
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+131
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+132
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+133
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+134
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+135
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+136
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+137
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+138
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+139
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+140
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+141
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+142
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+143
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+144
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+145
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+146
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+147
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+148
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+149
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+150
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+151
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+152
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+153
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+154
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+155
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+156
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+157
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+158
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+159
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+160
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+161
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+162
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+163
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+164
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+165
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+166
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+167
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+168
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+169
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+170
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+171
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+172
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+173
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+174
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+175
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+176
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+177
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+178
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+179
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+180
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+181
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+182
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+183
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+184
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+185
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+186
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+187
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+188
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+189
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+190
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+191
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+192
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+193
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+194
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+195
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+196
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Alice, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+
+OK, using the Z basis... what should the value be? (-1/1)
+197
+
+OK, we prepared a new qubit in the Z basis with value 1There is a qubit on the line going to Bob, do you want to intercept (y/N)?
+
+OK, intercepting... in which basis shall we measure? (Z/Y)
+
+OK, measured 
+Shall we pass this along (N) or replace it (Y)?
+
+In what basis should the new qubit be prepared? (Z/Y)
+[*] Closed connection to bb8.chal.pwning.xxx port 20811

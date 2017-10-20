@@ -1,0 +1,2 @@
+I implemented a blind sql injection search to solve this challenge, but I later found out that a classic sql injection would have worked too and would have been much faster.
+Oh well.

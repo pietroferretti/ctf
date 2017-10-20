@@ -1,0 +1,24 @@
+64 bit 
+canary
+partial relro
+no libc
+
+"password" = 7h15_15_v3ry_53cr37_1_7h1nk
+* buffer overflow nella lettura della password (512 scritti su 40)
+* format string nella admin action
+  ^ accetta solo caratteri lowercase...
+
+funzione che legge la flag a 0x40087A
+
+la funzione che fa il check su lowercase legge anche il terminatore e chiude
+-> soluzione: length è un __int8, non fa check oltre il 256° carattere
+
+plan:
+- printf con >256 chars per leggere il canary e indirizzo stack
+  -> canary a %137$llx
+  -> a %138$llx abbiamo saved ebp = indirizzo saved eip + 368
+    -> indirizzo saved eip = %138$llx - 368
+- printf con >256 chars per scrivere sull'eip (2 short writes meno significativi)
+
+LA PRINTF SI FERMA QUANDO TROVA BYTE NULLI!!!!!
+mettiamo i comandi di scrittura prima degli indirizzi

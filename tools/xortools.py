@@ -91,10 +91,8 @@ def findkeylen_all(ciphertext):
     
     The algorithm works using the Normalized Hamming Distance.
 
-    Returns all the possible key lengths and their 
-    respective score as a list of (length, score) tuples.
-    The list is ordered from the best to the worst score 
-    (lower is better).
+    Returns all the possible key lengths and their respective score as a list of (length, score) tuples.
+    The list is ordered from the best to the worst score (lower is better).
     '''
     
     len_score_list = []
@@ -125,14 +123,12 @@ def findkeylen_all(ciphertext):
     return result
 
 
-# TODO: test if and how often this works
 def findkeylen(ciphertext, topn=7):
     '''Determines the length of a repeated xor key given a ciphertext.
 
-    Takes the greatest common divisor of the most probable 
-    candidates, because multiples of the actual key length 
-    often get better scores. 
+    Takes the greatest common divisor of the most probable candidates, because multiples of the actual key length often get better scores.
     (see also https://trustedsignal.blogspot.it/2015/06/xord-play-normalized-hamming-distance.html)
+    NB: this works best when the characters of the key are very different from one another.
 
     Returns the most probable key length.
     '''
@@ -155,17 +151,16 @@ def findkeylen(ciphertext, topn=7):
     return max(gcd_occurences.keys(), key=(lambda k: gcd_occurences[k]))
 
 
-# TODO: already known partial key
-def findkeychars(ciphertext, plaintext_charset=string.printable, keylen=None):
+def findkeychars(ciphertext, keylen=None, charset=string.printable, decfunc=xor_str):
     '''Finds all possible characters for each key index given a set of characters that can appear in the plaintext.
 
     This function assumes a substition cipher is used. (char by char)
 
     Arguments:
-        ciphertext        -- the ciphertext as a string
-        plaintext_charset -- a string containing all the characters that can be found in the plaintext (default: allprintable characters)
-        keylen            -- the length of the key (default: found using findkeylen)
-
+        ciphertext -- the ciphertext as a string
+        charset    -- a string containing all the characters that can be found in the plaintext (default: all printable characters)
+        keylen     -- the length of the key (default: found using findkeylen)
+        decfunc    -- a function that takes a character of ciphertext and a character of key and returns a character of plaintext (default: xor)
     Returns a list of lists of characters, one list for each key index.
     '''
 
@@ -177,10 +172,10 @@ def findkeychars(ciphertext, plaintext_charset=string.printable, keylen=None):
     result = []
     for column in columns:
         # list of acceptable values for this key index
-        good_chars = [chr(x) for x in range(256)]
+        good_chars = [chr(x) for x in xrange(256)]
         for char in column:
             # find values of key that map to an acceptable plaintext
-            ok_set = [chr(ord(char) ^ ord(p)) for p in plaintext_charset]
+            ok_set = [chr(k) for k in xrange(256) if (decfunc(char, chr(k)) in charset)]
             # take intersection with previous acceptable values
             good_chars = filter((lambda e: e in ok_set), good_chars)
         result.append(good_chars)
@@ -188,21 +183,21 @@ def findkeychars(ciphertext, plaintext_charset=string.printable, keylen=None):
     return result
 
 
-# TODO: already known partial key
-def findkeys(ciphertext, plaintext_charset=string.printable, keylen=None):
+def findkeys(ciphertext, keylen=None, charset=string.printable, decfunc=xor_str):
     '''Finds all possible keys given a set of characters that can appear in the ciphertext.
 
     This function assumes a substition cipher is used. (char by char)
 
     Arguments:
-        ciphertext        -- the ciphertext as a string
-        plaintext_charset -- a string containing all the characters that can be found in the plaintext (default: all printable characters)
-        keylen            -- the length of the key (default: found using findkeylen)
+        ciphertext -- the ciphertext as a string
+        charset    -- a string containing all the characters that can be found in the plaintext (default: all printable characters)
+        keylen     -- the length of the key (default: found using findkeylen)
+        decfunc    -- a function that takes a character of ciphertext and a character of key and returns a character of plaintext (default: xor)
 
     Returns a generator that yields keys as strings.
     '''
 
-    char_list = findkeychars(ciphertext, plaintext_charset, keylen)
+    char_list = findkeychars(ciphertext, keylen, charset, decfunc)
 
     def key_generator(iter_prod):
         while True:    # stop when iter_prod raises StopIteration
@@ -211,6 +206,7 @@ def findkeys(ciphertext, plaintext_charset=string.printable, keylen=None):
     return key_generator(itertools.product(*char_list))
 
 
+# TODO: add option to find all indexes such that the crib only decrypts in a specified charset
 def cribdrag(ciphertext, keylen, keyfunc=xor_str, decfunc=xor_str):
     '''Starts an interactive cribdrag session.
 
@@ -219,12 +215,9 @@ def cribdrag(ciphertext, keylen, keyfunc=xor_str, decfunc=xor_str):
     Arguments:
         ciphertext -- the ciphertext as a string
         keylen     -- the length of the key
-        keyfunc    -- a function that takes a character of ciphertext and 
-                      a character of plaintext and returns a character of key
-                      (default: xor)
-        decfunc    -- a function that takes a character of ciphertext and 
-                      a character of key and returns a character of plaintext
-                      (default: xor)
+        keyfunc    -- a function that takes a character of ciphertext and a character of plaintext and returns a character of key (default: xor)
+        decfunc    -- a function that takes a character of ciphertext and a character of key and returns a character of plaintext (default: xor)
+
     Returns the state of the key at the end of the session as a list of characters and None.
     '''
 
@@ -266,26 +259,26 @@ def cribdrag(ciphertext, keylen, keyfunc=xor_str, decfunc=xor_str):
 
     def update_and_print():
         '''Update key with current crib and print result'''
-        # find key
+        
+        # empty curr_key
+        del curr_key[:]
+        # update curr_key
         cribkey = getkey(ciphertext, keylen, crib, cribindex, keyfunc)
-        newkey = []
         for i in xrange(keylen):
             if cribkey[i] != None:
-                newkey.append(cribkey[i])
+                curr_key.append(cribkey[i])
             elif key[i] != None:
-                newkey.append(key[i])
+                curr_key.append(key[i])
             else:
-                newkey.append(None)
-
-        # apply key
-        dec_blocks = blockify(decrypt(ciphertext, newkey, decfunc), keylen)
+                curr_key.append(None)
 
         # print decrypted blocks
+        dec_blocks = blockify(decrypt(ciphertext, curr_key, decfunc), keylen)
         print_lines(dec_blocks, cribindex, len(crib))
         print 'Crib: {}'.format(crib)
         print 'Index: {}'.format(cribindex)
         print 'Key: {}'.format(key)
-        print 'New key: {}'.format(newkey)
+        print 'New key: {}'.format(curr_key)
 
     def prompt(prevchoice, prevarg):
         userinput = raw_input('> ')
@@ -300,6 +293,7 @@ def cribdrag(ciphertext, keylen, keyfunc=xor_str, decfunc=xor_str):
     crib = ''
     cribindex = 0
     key = [None] * keylen
+    curr_key = key[:]
 
     update_and_print()
 
@@ -317,6 +311,7 @@ def cribdrag(ciphertext, keylen, keyfunc=xor_str, decfunc=xor_str):
             guide += '  (j)ump <index> -- move the crib to an index\n'
             guide += '  (o)k -- update the key using the current crib\n'
             guide += '  (k)ey <char_list> -- set the key (argument is like [\'a\', \'\\x01\', None])\n'
+            guide += '  (s)how -- show current decrypted plaintext\n'
             guide += '  (r)eset -- reset everything from this session\n'
             guide += '  (q)uit -- exit from the cribdrag tool\n'
             guide += '  (h)elp -- show this guide\n'
@@ -325,11 +320,11 @@ def cribdrag(ciphertext, keylen, keyfunc=xor_str, decfunc=xor_str):
         elif (choice == 'c' or choice == 'crib'):
             # remove spaces from sides
             argument = argument.strip()
+            if argument == '':
+                argument = '""'
             try:
                 newcrib = ast.literal_eval(argument)
-                if newcrib == '':
-                    print 'You have to pass an argument.'
-                elif type(newcrib) != str:
+                if type(newcrib) != str:
                     print 'The crib must be a string!'
                 elif len(newcrib) > keylen:
                     print 'The crib {} is longer than the key! The maximum allowed length is {}.'.format(newcrib, keylen)
@@ -346,7 +341,7 @@ def cribdrag(ciphertext, keylen, keyfunc=xor_str, decfunc=xor_str):
 
         elif (choice == 'n' or choice == 'next'):
             if crib == '':
-                print 'First set a crib.'
+                print 'You need to set a crib.'
             elif cribindex == (len(ciphertext) - len(crib)):
                 print 'Can\'t increase the index or the crib won\'t fit.'
             else:
@@ -355,7 +350,7 @@ def cribdrag(ciphertext, keylen, keyfunc=xor_str, decfunc=xor_str):
 
         elif (choice == 'p' or choice == 'prev'):
             if crib == '':
-                print 'First set a crib.'
+                print 'You need to set a crib.'
             elif cribindex == 0:
                 print 'Can\'t set the index at less than 0.'
             else:
@@ -364,7 +359,7 @@ def cribdrag(ciphertext, keylen, keyfunc=xor_str, decfunc=xor_str):
 
         elif (choice == 'j' or choice == 'jump'):
             if crib == '':
-                print 'First set a crib.'
+                print 'You need to set a crib.'
             else:
                 try:
                     newindex = int(argument)
@@ -419,6 +414,9 @@ def cribdrag(ciphertext, keylen, keyfunc=xor_str, decfunc=xor_str):
                 print 'Couldn\'t parse the key!'
                 print 'The command should be called like this:'
                 print '  key [\'a\', \'\\x01\', None, \'\\n\']'
+
+        elif (choice == 's' or choice == 'show'):
+            print decrypt(ciphertext, key, decfunc)
 
         elif (choice == 'r' or choice == 'reset'):
             crib = ''

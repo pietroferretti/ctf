@@ -8,7 +8,7 @@ Code and files from the challenges that were included in this repository are cop
 
 ## Tools
 
-I wrote some simple tools to make my life easier with the most common cookie-cutter ctfs.
+I wrote some simple tools to make my life easier with the most common cookie-cutter ctfs. You can find them under the [tools](https://github.com/pietroferretti/ctf/tree/master/tools) folder.
 
 All the tools are licensed under the MIT License.
 

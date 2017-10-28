@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # MIT License
 #
 # Copyright (c) 2017 Pietro Ferretti
@@ -20,8 +22,6 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-# coding: utf-8
-
 import itertools
 import string
 import math
@@ -42,10 +42,10 @@ def columnify(ciphertext, keylen, fill=False):
     '''Takes the ciphertext and collects the characters corresponding to each key position.
     
     Arguments:
-    ciphertext -- the ciphertext as a string
-    keylen     -- the length of the xor key
-    fill       -- if True all the lists of characters will 
-                  be filled with None to have the same length (default False)
+        ciphertext -- the ciphertext as a string
+        keylen     -- the length of the xor key
+        fill       -- if True all the lists of characters will 
+                      be filled with None to have the same length (default False)
 
     Returns a list of lists of characters.
     '''

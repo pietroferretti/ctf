@@ -154,7 +154,7 @@ def findkeylen(ciphertext, topn=7):
 def findkeychars(ciphertext, keylen=None, charset=string.printable, decfunc=xor_str):
     '''Finds all possible characters for each key index given a set of characters that can appear in the plaintext.
 
-    This function assumes a substition cipher is used. (char by char)
+    This function assumes a polyalphabetic substition cipher is used.
 
     Arguments:
         ciphertext -- the ciphertext as a string
@@ -207,16 +207,16 @@ def findkeys(ciphertext, keylen=None, charset=string.printable, decfunc=xor_str)
 
 
 # TODO: add option to find all indexes such that the crib only decrypts in a specified charset
-def cribdrag(ciphertext, keylen, keyfunc=xor_str, decfunc=xor_str):
+def cribdrag(ciphertext, keylen, decfunc=xor_str, keyfunc=None):
     '''Starts an interactive cribdrag session.
 
-    This function assumes a substition cipher is used. (char by char)
+    This function assumes a polyalphabetic substition cipher is used.
 
     Arguments:
         ciphertext -- the ciphertext as a string
         keylen     -- the length of the key
-        keyfunc    -- a function that takes a character of ciphertext and a character of plaintext and returns a character of key (default: xor)
         decfunc    -- a function that takes a character of ciphertext and a character of key and returns a character of plaintext (default: xor)
+        keyfunc    -- a function that takes a character of ciphertext and a character of plaintext and returns a character of key (default: same as decfunc)
 
     Returns the state of the key at the end of the session as a list of characters and None.
     '''
@@ -294,6 +294,8 @@ def cribdrag(ciphertext, keylen, keyfunc=xor_str, decfunc=xor_str):
     cribindex = 0
     key = [None] * keylen
     curr_key = key[:]
+    if keyfunc is None:
+        keyfunc = decfunc
 
     update_and_print()
 
@@ -432,3 +434,42 @@ def cribdrag(ciphertext, keylen, keyfunc=xor_str, decfunc=xor_str):
         choice, argument = prompt(choice, argument)
 
     return key
+
+
+def keyinplaintext(ciphertext, keylen, keyindex, seed, seedindex, decfunc=xor_str, keyfunc=None):
+    '''Solves the case when the key used to encrypt is embedded in the plaintext itself.
+
+    This function assumes a polyalphabetic substition cipher is used.
+
+    Arguments:
+        ciphertext -- the ciphertext as a string
+        keylen     -- the key length
+        keyindex   -- the position of the key in the plaintext
+        seed       -- a single known character in the plaintext
+        seedindex  -- the position of the seed in the plaintext
+        decfunc    -- a function that takes a character of ciphertext and a character of key and returns a character of plaintext (default: xor)
+        keyfunc    -- a function that takes a character of ciphertext and a character of plaintext and returns a character of key (default: same as decfunc)
+
+    Returns the  key.
+    '''
+
+    if keyindex % keylen == 0:
+        raise ValueError("The key in the plaintext is in the same position as the key used when encrypting. Impossible to solve")
+
+    # initial parameters
+    if keyfunc is None:
+        keyfunc = decfunc
+    key = [None] * keylen
+    key[seedindex % keylen] = keyfunc(ciphertext[seedindex], seed)
+
+    # iterate to find all the characters in the key
+    for _ in xrange(keylen):
+        newkey = key[:]
+        for i in xrange(len(key)):
+            if key[i] is not None:
+                newkey[(i + keyindex) % keylen] = decfunc(ciphertext[keyindex + i], key[i])
+        key = newkey[:]
+
+    assert not None in key
+
+    return ''.join(key)

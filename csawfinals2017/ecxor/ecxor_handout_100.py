@@ -20,7 +20,7 @@ negate = lambda p: (p[0], -p[1], -p[2], p[3])
 assert point_equal(point_add(negate(G), G), (0, 1, 1, 0))
 
 def encrypt(key, ptxt):
-    print(repr((key, ptxt)))
+    # print(repr((key, ptxt)))
     points = [point_add(topoint(x), topoint(ord(y))) for (x,y) in zip(cycle(key), ptxt)]
     return b';'.join(base64.b64encode(point_compress(p)) for p in points)
 

@@ -10,6 +10,7 @@ I also published some writeups on my teams' blogs:
 
 * [Secret Server (HITCON Quals 2018)](https://toh.necst.it/hitconquals2017/crypto/Secret_Server/)
 * [Secret Server Revenge (HITCON Quals 2017)](https://toh.necst.it/hitconquals2017/crypto/Secret_Server_Revenge/)
+* [Elastic Cloud Compute (DEF CON Quals 2018](https://mhackeroni.it/archive/2018/05/20/defconctfquals-2018-all-writeups.html#elastic-cloud-compute)
 * [DOGESTORE (Google CTF Quals 2018)](https://mhackeroni.it/archive/2018/06/30/google-ctf-2018-dogestore.html)
 * [Party (WCTF 2018)](https://mhackeroni.it/archive/2018/07/08/wctf-2018-party.html)
 * [20000 (Codegate Quals 2019)](https://mhackeroni.it/archive/2019/01/28/codegate-quals-2019-20000.html)

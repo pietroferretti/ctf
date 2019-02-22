@@ -1,0 +1,22 @@
+mettere swap -> caricare con dup il 17 slot da stack
+setBalance fa push value, push storage index, sstore
+e funziona solo se crede che storage index sia in 100-104
+nessun check sul valore da mettere
+possiamo rimpiazzare qualunque push con uno swap1
+inizio stack:
+	target address
+push value (DUP):
+	value
+	target address
+swap1:
+	target address
+	value
+risultato finale stack: 
+	target address
+	value
+
+quindi 
+14 push a caso
+x = 1
+y = target address (keccak256(coinbase))
+setBalance(1, swapp)

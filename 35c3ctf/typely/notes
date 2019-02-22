@@ -1,0 +1,86 @@
+ethereum, yay! 
+create a bank contract with a PoW, it will stay alive for 10 minutes
+- we can send json-rpc requests on server-side through the /eth/{bank id} POST api
+- we can also execute scripts in an unspecified language (? I suppose we are calling functions on the ethereum contract) 
+  by solving a proof of work and POSTing the script on the /execute api
+assuming a private blockchain!
+Ideas:
+    * get the compiled contract at the bank address, reverse somehow (eth_getCode)
+    * trigger the request flag function, there should be one looking at the js source
+
+contract bytecode:
+0x60806040526004361061005c576000357c0100000000000000000000000000000000000000000000000000000000900480632f54bf6e146100615780634b8fcc14146100ca57806361f1d8891461011b578063839a19d914610160575b600080fd5b34801561006d57600080fd5b506100b06004803603602081101561008457600080fd5b81019080803573ffffffffffffffffffffffffffffffffffffffff1690602001909291905050506101af565b604051808215151515815260200191505060405180910390f35b3480156100d657600080fd5b50610119600480360360208110156100ed57600080fd5b81019080803573ffffffffffffffffffffffffffffffffffffffff1690602001909291905050506101cf565b005b34801561012757600080fd5b5061015e6004803603604081101561013e57600080fd5b81019080803590602001909291908035906020019092919050505061029c565b005b34801561016c57600080fd5b506101996004803603602081101561018357600080fd5b81019080803590602001909291905050506102a8565b6040518082815260200191505060405180910390f35b60006020528060005260406000206000915054906101000a900460ff1681565b6000803373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200190815260200160002060009054906101000a900460ff16151561022657600080fd5b60008173ffffffffffffffffffffffffffffffffffffffff16604051806000019050600060405180830381855af49150503d8060008114610283576040519150601f19603f3d011682016040523d82523d6000602084013e610288565b606091505b5050905080151561029857600080fd5b5050565b81606455806065555050565b6000606482101580156102bc575060688211155b15156102c757600080fd5b8154905091905056fea165627a7a723058204350400e848baca6f92a9632c2a637cc15964c24b662975f77d3115296e405b20029
+hell yeah, this is new: https://ethervm.io/decompile
+
+https://www.4byte.directory/ for the contract signatures
+we have:
+    0x2f54bf6e -> isOwner(address)
+    0x4b8fcc14 -> ? [1 param = address, sender must be the owner, delegatecall to address?, doesn't return] 
+    0x61f1d889 -> setFlag(uint256,uint256) [saves the arguments in storage at indexes 0x64, 0x65]
+    0x839a19d9 -> ? [gets storage at index 0x64 to 0x68]
+the bank accounts are 100, 101, 102, 103, 104, i.e. 0x64 to 0x68
+"depositing" sets the storage
+reading the account status reads the storage
+"transferring" is made by the wrapper script that is executed -> setBalance just calls setFlag
+
+how do we "request" the flag?
+we probably need to make the logs spit out the topic "0xa167172562add270a4b89c49b58bcae0b13d3206fca06345a091d6ec738878c5"
+^ literally the hash for the event "FlagRequested()"
+
+    fucking horrible idea:
+
+        1) deploy a contract which defines a low-level event with that topic, using https://solidity.readthedocs.io/en/v0.4.21/contracts.html#low-level-interface-to-logs. Deploy with the RPC api if possible (yes, we can, using eth_sendTransaction and specifying the gas)
+
+    2) call the contract function which uses delegatecall, call our contract, raise the event. We should check if we are the owner! ("just" check the result of the call isOwner -> coinbase) we are not the owner :(
+sleeeep
+
+'We released a small hint for "typely": If you are stuck, play around with the /execute endpoint and carefully read the responses.'
+/execute responses:
+{"result": "syntax_error", "help": "API examples:\n\n{\"id\": \"<ID>\", \"script\": \"setBalance(100, 1337)\", \"proof\": \"<POW>\"}\n{\"script\": \"setBalance(100, 1337), \"debug\": true} # no PoW required\n"}
+a success spits out some generated code (haskell!): https://pastebin.com/KUGpw9rS
+NB: the challenge description suggests something about types cool
+"unsafeCoerce"?
+the input script is somehow "compiled" to haskell, then probably compiled to ethereum bytecode
+guess: the bytecode is deployed, then the function 0x4b8fcc14 is called and delegated to our code
+but there seems to be no way to emit an event (opcodes 0xa0-0xa4)
+push JUMPDEST+LOG as data, then jump there? I don't understand the haskell anyway
+
+todo: understand how the "script" is translated to haskell (whatever)
+new todo: execute a script, find transaction where script is executed, find the address of the second contract, get the bytecode of the second contract, check if the bytecode matches the haskell
+ok confirmed, the haskell
+1) creates a contract
+2) calls the 0x4b8fcc14 function with the new contract's address
+"deposit" bytecode:
+0x630000002f6012600039630000002f6000f3633b9aca0060676104d280830360008354818110838211171558600a015760006000fd5b83810180865560006000f3
+yes, everything works as expected
+* getBalance reads from storage
+* setBalance sets storage
+* boundscheck adds a value check
+* require adds a conditional jump to revert
+
+how do get control of the contract execution?? we need LOG1
+
+new hint: "At least two different kinds of properties of instructions are encoded on the type level, and proven via the type checker. But are all of these properties sufficiently strict to ensure safety?"
+properties?
+    - value range
+    - dup depth
+    - isminussafe
+
+BUG FOUND dup with depth 16 --> becomes SWAP1
+we can cheat with boundscheck, we can have wrong value ranges
+we could mess with the operations + * - %
+
+ATTACK:
+1) edit the storage to make us owners!
+    1a) change bank account to the value of our address in the owner map
+    1b) put a value different from zero in storage at that address, isowner will return true
+2) write contract that emits the event, deploy
+3) call our contract with the magical delegatecall function
+
+coinbase = 0x544e3941ef92d6b2da1335afb8b203b1706bdea9
+todo:
+    - find owner from transaction 0x03f46475c4b79986cb9e618ec7f79c2f326cbec0
+    - check owner -> returns 1 ok
+    - find a way to set arbitrary storage from runscript (yes I can!)
+    hash of coinbase = 0xdd9761221d8fa474c931f8ef56f1e6dfbae6d8ad8b0a4e4aabcc23642b03a5d4
+    100228603832830380749309594888777323252719892620893633980389254634571580024276

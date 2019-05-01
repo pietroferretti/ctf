@@ -17,7 +17,7 @@ The application offered four backend endpoints:
 
 The `secret` cookie is generated directly from the password provided at registration (the password is the flag) by encrypting it with a custom CBC-mode block cipher. Since the plaintext contains the flag, we'd like to recover the cookie if possible.
 
-```
+```go
 	plainSecret := fmt.Sprintf("%v|%v", usersCount, password)
 	encryptedSecret, err := cbc.Encrypt(key, []byte(plainSecret))
 ```
@@ -29,7 +29,7 @@ The vulnerability lies in the login logic: the application behaves peculiarly if
 1. Check if the cookies are a valid `secret` and `uid` pair, i.e. they are valid credentials for an existing user;
 2. If the cookies are ok, reset the `secret` cookie to the one corresponding to the uid passed in the response *body*, whichever it is.
 
-```
+```go
 func handleLoginUser(w http.ResponseWriter, r *http.Request) {
 	data, err := ioutil.ReadAll(r.Body)
 	if err != nil {
@@ -93,11 +93,11 @@ The patch:
 
 The cookie was generated using a custom algorithm. Even without delving into the shifting, xoring and shuffling, the straightest approach is to check if the encryption key is fixed or somewhat predictable.
 
-```
+```go
 	userId, cookie, err := usersManager.AddUser(newUser.Password, cbc.GenerateKey())
 ```
 
-```
+```go
 func GenerateKey() []byte {
 	key := make([]byte, KeySize)
 	for i := 0; i < KeySize; i++ {
